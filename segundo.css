@@ -1,0 +1,30 @@
+
+*{
+    margin: 0px ;
+    padding: 0 10px;
+}
+
+body{
+    background-image:linear-gradient( to left,#910030,#ff8762) ;
+
+
+}
+table{ 
+    display: flex;
+    justify-content: space-around;
+    margin-left: 1600px;
+    padding: 0px 15px;
+    align-items: center;
+ 
+}
+img{  
+    width: 170px;
+}
+
+section{
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
